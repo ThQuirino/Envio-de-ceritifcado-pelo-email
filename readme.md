@@ -21,7 +21,7 @@ pipenv shell
 ```
 depois: 
 ```
-python server.py 
+python index.py 
 ```
 ### Csv:
 caso queria usar uma outra base de dados, utilize como exemplo o csv dentro do projeto.
