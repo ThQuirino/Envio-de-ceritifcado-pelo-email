@@ -24,11 +24,11 @@ depois:
 python server.py 
 ```
 ### Csv:
-caso queria usar uma outra base de dados, utilize como base o csv dentro do projeto como exemplo.
+caso queria usar uma outra base de dados, utilize como exemplo o csv dentro do projeto.
 <hr> 
 Obs:
 
- É necessário utilizar  um gmail como mandatório(modifique diretamente dentro do arquivo) e posteriormente informar a sua senha.
+ É necessário utilizar  um gmail como mandatório(modifique diretamente dentro do arquivo) e posteriormente informe a sua senha.
 
 ### 🚀 Tecnologias utilizadas:
   - Python;
