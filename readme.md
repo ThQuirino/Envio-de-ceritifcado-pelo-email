@@ -4,7 +4,7 @@ Automatização de assinatura de certificados utilizando a lib  **pillow** e um 
 <hr>
 
 ### Instalação:
-É preciso ter a versão acima da 3.6<a href='https://www.python.org/'> Python.py</a> 
+É preciso ter a versão acima da 3.6<a href='https://www.python.org/'> Python.py.</a> 
 também é necessário instalar o gerenciador de pacotes **Pip**. 
 Após isso, basta rodar o comando no terminal:
 
